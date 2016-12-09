@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-archetype",
+  "version": "1.0.0",
+  "description": "Node.js archetype for a webapp built with AngularJS, Bootstrap, SASS and Gulp",
+  "author": "sp00m <christophe.maillard@rocketmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/sp00m/nodejs-archetype#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sp00m/nodejs-archetype.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sp00m/nodejs-archetype/issues"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-filesort": "^1.1.1",
+    "gulp-clean-css": "^2.2.0",
+    "gulp-if": "^2.0.2",
+    "gulp-inject": "^4.1.0",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "lazypipe": "^1.0.1",
+    "wiredep": "^4.0.0"
+  }
+}

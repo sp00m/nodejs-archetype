@@ -1,0 +1,8 @@
+/dist/
+/node_modules/
+/public/libs/
+/public/index.html
+/.DS_Store
+/npm-debug.log
+*.css
+*.map

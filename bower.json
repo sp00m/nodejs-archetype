@@ -1,24 +1,24 @@
 {
-	"name": "nodejs-archetype",
-	"description": "Node.js archetype for a webapp built with AngularJS, Bootstrap, SASS and Gulp",
-	"authors": [
-		"sp00m <christophe.maillard@rocketmail.com>"
-	],
-	"license": "MIT",
-	"homepage": "https://github.com/sp00m/nodejs-archetype",
-	"private": true,
-	"dependencies": {
-		"jquery": "^3.1.1",
-		"angular": "^1.6.0",
-		"bootstrap": "^3.3.7"
-	},
-	"overrides": {
-		"bootstrap": {
-			"main": [
-				"dist/js/bootstrap.js",
-				"dist/css/bootstrap.css",
-                "dist/fonts/*"
-			]
-		}
-	}
+  "name": "nodejs-archetype",
+  "description": "Node.js archetype for a webapp built with AngularJS, Bootstrap, SASS and Gulp",
+  "authors": [
+    "sp00m <christophe.maillard@rocketmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sp00m/nodejs-archetype",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "^1.6.0",
+    "bootstrap": "^3.3.7"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/js/bootstrap.js",
+        "dist/css/bootstrap.css",
+        "dist/fonts/*"
+      ]
+    }
+  }
 }

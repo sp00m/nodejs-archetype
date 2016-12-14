@@ -1,3 +1,3 @@
 angular.module("nodejs.archetype", [
-	"nodejs.archetype.home"
+  "nodejs.archetype.home"
 ]);

@@ -2,6 +2,6 @@ angular.module("nodejs.archetype.home")
 .controller("HomeController", [
 function () {
 
-	this.title = "Hello world!";
+  this.title = "Hello world!";
 
 }]);
